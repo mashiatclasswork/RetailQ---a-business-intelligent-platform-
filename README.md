@@ -2,13 +2,13 @@
 
 A full-stack business intelligence dashboard built with Python and Streamlit, connected to a MySQL relational database. Designed and implemented as part of a Database Management Systems course project at the University of Houston.
 
----
+
 
 ## Project Overview
 
 RetailIQ is a database-driven customer segmentation management system that allows businesses to store, manage, analyze, and visualize customer data in real time. The system demonstrates core database concepts including relational schema design, normalization, complex SQL queries, stored procedures, triggers, views, and indexing — all surfaced through an interactive web dashboard.
 
----
+
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@ RetailIQ is a database-driven customer segmentation management system that allow
 | Data Processing | Pandas |
 | Version Control | Git and GitHub |
 
----
+
 
 ## Database Schema
 
@@ -33,7 +33,7 @@ The system uses a normalized relational database called `dbmt_project` with the 
 - **BEHAVIORAL_METRICS** — summarizes each customer's buying behavior
 - **SEGMENTATION_RESULTS** — stores clustering results labeling customers as High Value, Medium Value, or Low Value
 
----
+
 
 ## SQL Features Demonstrated
 
@@ -62,7 +62,6 @@ The project demonstrates 25 SQL queries across three complexity levels:
 - Index on SegmentLabel for query optimization
 - VIEW combining multiple tables for simplified reporting
 
----
 
 ## Dashboard Pages
 
@@ -98,7 +97,7 @@ The project demonstrates 25 SQL queries across three complexity levels:
 - Run any report and download results as CSV
 - Add new products to the catalog
 
----
+
 
 ## How to Run Locally
 
