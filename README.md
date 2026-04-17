@@ -10,16 +10,6 @@ RetailIQ is a database-driven customer segmentation management system that allow
 
 ---
 
-## Team Members
-
-- Uvashree Ramalingam
-- Mashiat Jamal
-- Lyba Siddiqui
-- Ranjitha Basavaraju
-- Hamza Ahmed Shad
-
----
-
 ## Tech Stack
 
 | Layer | Technology |
